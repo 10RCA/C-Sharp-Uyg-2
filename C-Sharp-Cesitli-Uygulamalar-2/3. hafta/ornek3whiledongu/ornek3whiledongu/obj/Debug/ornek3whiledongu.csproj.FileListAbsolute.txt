@@ -1,0 +1,7 @@
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\ornek3whiledongu\ornek3whiledongu\bin\Debug\ornek3whiledongu.exe.config
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\ornek3whiledongu\ornek3whiledongu\bin\Debug\ornek3whiledongu.exe
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\ornek3whiledongu\ornek3whiledongu\bin\Debug\ornek3whiledongu.pdb
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\ornek3whiledongu\ornek3whiledongu\obj\Debug\ornek3whiledongu.csprojAssemblyReference.cache
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\ornek3whiledongu\ornek3whiledongu\obj\Debug\ornek3whiledongu.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\ornek3whiledongu\ornek3whiledongu\obj\Debug\ornek3whiledongu.exe
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\ornek3whiledongu\ornek3whiledongu\obj\Debug\ornek3whiledongu.pdb

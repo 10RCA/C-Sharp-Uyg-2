@@ -1,0 +1,7 @@
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\5. hafta\ornek8\ornek8\bin\Debug\ornek8.exe.config
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\5. hafta\ornek8\ornek8\bin\Debug\ornek8.exe
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\5. hafta\ornek8\ornek8\bin\Debug\ornek8.pdb
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\5. hafta\ornek8\ornek8\obj\Debug\ornek8.csprojAssemblyReference.cache
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\5. hafta\ornek8\ornek8\obj\Debug\ornek8.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\5. hafta\ornek8\ornek8\obj\Debug\ornek8.exe
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\5. hafta\ornek8\ornek8\obj\Debug\ornek8.pdb

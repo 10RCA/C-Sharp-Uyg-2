@@ -1,0 +1,2 @@
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\10. hafta\ornek1\ornek1\obj\Debug\ornek1.csprojAssemblyReference.cache
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\10. hafta\ornek1\ornek1\obj\Debug\ornek1.csproj.CoreCompileInputs.cache

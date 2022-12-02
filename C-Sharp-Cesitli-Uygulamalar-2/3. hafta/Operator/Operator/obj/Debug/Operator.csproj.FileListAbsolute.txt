@@ -1,0 +1,7 @@
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\3. hafta\Operator\Operator\bin\Debug\Operator.exe.config
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\3. hafta\Operator\Operator\bin\Debug\Operator.exe
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\3. hafta\Operator\Operator\bin\Debug\Operator.pdb
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\3. hafta\Operator\Operator\obj\Debug\Operator.csprojAssemblyReference.cache
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\3. hafta\Operator\Operator\obj\Debug\Operator.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\3. hafta\Operator\Operator\obj\Debug\Operator.exe
+C:\Users\Onur\Desktop\C-Sharp-Cesitli-Uygulamalar-2\3. hafta\Operator\Operator\obj\Debug\Operator.pdb
